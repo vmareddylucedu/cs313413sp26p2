@@ -43,8 +43,8 @@ Conclusion:
 
 Behavioral Comparison (ArrayList vs LinkedList):
 
-     I replaced ArrayList with LinkedList in TestList and TestIterator and ran all tests again.
-     All tests still passed successfully.
+I replaced ArrayList with LinkedList in TestList and TestIterator and ran all tests again.
+  All tests still passed successfully.
 
-     There is no behavioral difference between ArrayList and LinkedList for the List operations tested.
-     The difference between them is in performance, not behavior.
+There is no behavioral difference between ArrayList and LinkedList for the List operations tested.
+The difference between them is in performance, not behavior.
