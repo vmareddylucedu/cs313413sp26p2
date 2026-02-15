@@ -40,3 +40,11 @@ Conclusion:
 3. As the list size increases:
      ArrayList becomes significantly better for access operations.
      LinkedList remains better for add/remove at the front.
+
+Behavioral Comparison (ArrayList vs LinkedList):
+
+     I replaced ArrayList with LinkedList in TestList and TestIterator and ran all tests again.
+     All tests still passed successfully.
+
+     There is no behavioral difference between ArrayList and LinkedList for the List operations tested.
+     The difference between them is in performance, not behavior.
